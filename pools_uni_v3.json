@@ -1,0 +1,252 @@
+{
+  "pools": [
+    {
+      "poolAddress": "0x1e4dbb639ebbf725fd243a6190df5440ee38740e",
+      "token0": {
+        "symbol": "BOLD",
+        "address": "0x6440f144b7e50D6a8439336510312d2F54beB01D",
+        "decimals": 18,
+        "coingeckoId": "liquity-bold-2"
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6,
+        "coingeckoId": "usd-coin"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0x129360c964e2e13910d603043f6287e5e9383374",
+      "token0": {
+        "symbol": "OUSD",
+        "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+        "decimals": 18,
+        "coingeckoId": "origin-dollar"
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "coingeckoId": "tether"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0x2570c38f7ee2c0c7d9fe69b0ec7a6232c7de89e4",
+      "token0": {
+        "symbol": "USD0++",
+        "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+        "decimals": 18,
+        "coingeckoId": "usd0-liquid-bond"
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6,
+        "coingeckoId": "usd-coin"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0x00cc0523b7a2b97f1d52bea1b7a0c50027e0a706",
+      "token0": {
+        "symbol": "USD0++",
+        "address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+        "decimals": 18,
+        "coingeckoId": "usd0-liquid-bond"
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "coingeckoId": "tether"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0xd017617f6f0fd22796e137a8240cc38f52a147b2",
+      "token0": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "weth"
+      },
+      "token1": {
+        "symbol": "GTC",
+        "address": "0xDe30da39c46104798bB5aA3fe8B9e0e1F348163F",
+        "decimals": 18,
+        "coingeckoId": "gitcoin"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0x8661ae7918c0115af9e3691662f605e9c550ddc9",
+      "token0": {
+        "symbol": "MANA",
+        "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+        "decimals": 18,
+        "coingeckoId": "decentraland"
+      },
+      "token1": {
+        "symbol": "WETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "weth"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0x065ff88d5cf1963dae5c1644f3f07550a2cb82dc",
+      "token0": {
+        "symbol": "MANA",
+        "address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
+        "decimals": 18,
+        "coingeckoId": "decentraland"
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "coingeckoId": "tether"
+      },
+      "feeTier": 0.3
+    },
+    {
+      "poolAddress": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6,
+        "coingeckoId": "usd-coin"
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+      },
+      "feeTier": 0.3,
+      "description": "Top ETH/USDC pool with deep liquidity for stablecoin-ETH trading."
+    },
+    {
+      "poolAddress": "0x4e68ccd3e89f51c3074ca5072bbac773960dfa36",
+      "token0": {
+        "symbol": "USDT",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "coingeckoId": "tether"
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+      },
+      "feeTier": 0.3,
+      "description": "Major ETH/USDT pool for tether-ETH swaps."
+    },
+    {
+      "poolAddress": "0x3416cf6c708da44db2624d63ea0aaef7113527c6",
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6,
+        "coingeckoId": "usd-coin"
+      },
+      "token1": {
+        "symbol": "USDT",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "decimals": 6,
+        "coingeckoId": "tether"
+      },
+      "feeTier": 0.3,
+      "description": "Stablecoin arbitrage pool (USDC/USDT)."
+    },
+    {
+      "poolAddress": "0x1d42064fc4beb5f8aaf85f4617ae8b3b5b8bd801",
+      "token0": {
+        "symbol": "UNI",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "decimals": 18,
+        "coingeckoId": "uniswap"
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+      },
+      "feeTier": 0.3,
+      "description": "UNI/ETH pool for Uniswap’s native token trading."
+    },
+    {
+      "poolAddress": "0xcbcdf9626bc03e24f779434178a73a0b4bad62ed",
+      "token0": {
+        "symbol": "WBTC",
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "decimals": 8,
+        "coingeckoId": "wrapped-bitcoin"
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+      },
+      "feeTier": 0.3,
+      "description": "WBTC/ETH pool for Bitcoin-ETH trading."
+    },
+    {
+      "poolAddress": "0x9db9e0e53058c89e5b94e29621a205198648425b",
+      "token0": {
+        "symbol": "LINK",
+        "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+        "decimals": 18,
+        "coingeckoId": "chainlink"
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+      },
+      "feeTier": 0.3,
+      "description": "LINK/ETH pool for Chainlink trading."
+    },
+    {
+      "poolAddress": "0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640",
+      "token0": {
+        "symbol": "USDC",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "decimals": 6,
+        "coingeckoId": "usd-coin"
+      },
+      "token1": {
+        "symbol": "DAI",
+        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+        "decimals": 18,
+        "coingeckoId": "dai"
+      },
+      "feeTier": 0.3,
+      "description": "USDC/DAI pool for stablecoin swaps."
+    },
+    {
+      "poolAddress": "0x7379e81228514a1d2a6cf7559203998e20598346",
+      "token0": {
+        "symbol": "AAVE",
+        "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+        "decimals": 18,
+        "coingeckoId": "aave"
+      },
+      "token1": {
+        "symbol": "ETH",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "decimals": 18,
+        "coingeckoId": "ethereum"
+      },
+      "feeTier": 0.3,
+      "description": "AAVE/ETH pool for Aave protocol token trading."
+    }
+  ]
+}

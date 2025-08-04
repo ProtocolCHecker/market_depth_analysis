@@ -1,0 +1,106 @@
+{
+  "pools": [
+    {
+      "pool_address": "0x1220868672d5b10f3e1cb9ab519e4d0b08545ea4",
+      "token1_address": "0x7c1156e515aa1a2e851674120074968c905aaf37",
+      "token2_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "pair_name": "lvlUSD/USDC"
+    },
+    {
+      "pool_address": "0xF244324FBB57f09F0606FF088bC894b051d632Eb",
+      "token1_address": "0x4737D9b4592B40d51e110b94c9C043c6654067Ae",
+      "token2_address": "0x7C1156E515aA1A2E851674120074968C905aAF37",
+      "pair_name": "slvlUSD/lvlUSD"
+    },
+    {
+      "pool_address": "0x6d18E1a7faeB1F0467A77C0d293872ab685426dc",
+      "token1_address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+      "token2_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "pair_name": "OUSD/USDC"
+    },
+    {
+      "pool_address": "0xdcc3eC9aF62DFcb63033243E90481eB18Baeb897",
+      "token1_address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
+      "token2_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "pair_name": "OUSD/USDT"
+    },
+    {
+      "pool_address": "0xbD61dF10027C29a45AdDD3DD16EaD4643e78743F",
+      "token1_address": "0x19Ebd191f7A24ECE672ba13A302212b5eF7F35cb",
+      "token2_address": "0x80ac24aA929eaF5013f6436cdA2a7ba190f5Cc0b",
+      "pair_name": "yUSD/syrupUSDC"
+    },
+    {
+      "pool_address": "0x81301848168bAe6Add206aA50052E247Cb366d3A",
+      "token1_address": "0x19Ebd191f7A24ECE672ba13A302212b5eF7F35cb",
+      "token2_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "pair_name": "yUSD/USDC"
+    },
+    {
+      "pool_address": "0x2c7A1b4950Fe369e79fB3471284d4a4E66fbEA76",
+      "token1_address": "0x5C5b196aBE0d54485975D1Ec29617D42D9198326",
+      "token2_address": "0x15700B564Ca08D9439C58cA5053166E8317aa138",
+      "pair_name": "sdeUSD/deUSD"
+    },
+    {
+      "pool_address": "0x72310DAAed61321b02B08A547150c07522c6a976",
+      "token1_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "token2_address": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+      "pair_name": "USDC/USDf"
+    },
+    {
+      "pool_address": "0x98E9599dab3A936C35DE48E13E026Ef4eA20B5e6",
+      "token1_address": "0xCAcd6fd266aF91b8AeD52aCCc382b4e165586E29",
+      "token2_address": "0xFa2B947eEc368f42195f24F36d2aF29f7c24CeC2",
+      "pair_name": "frxUSD/USDf"
+    },
+    {
+      "pool_address": "0x1d08E7adC263CfC70b1BaBe6dC5Bb339c16Eec52",
+      "token1_address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+      "token2_address": "0x35D8949372D46B7a3D5A56006AE77B215fc69bC0",
+      "pair_name": "USD0/USD0++"
+    },
+    {
+      "pool_address": "0x14100f81e33C33Ecc7CDac70181Fb45B6E78569F",
+      "token1_address": "0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5",
+      "token2_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "pair_name": "USD0/USDC"
+    },
+    {
+      "pool_address": "0x541d4752D992046787D3a21Be1DAFF8E816bB02e",
+      "token1_address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+      "token2_address": "0x7788A3538C5fc7F9c7C8A74EAC4c898fC8d87d92",
+      "pair_name": "sUSDX/USDX"
+    },
+    {
+      "pool_address": "0x3f131BB401C5f322BCE82E1f06fB25ACa08D3f7e",
+      "token1_address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+      "token2_address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "pair_name": "USDX/USDT"
+    },
+    {
+      "pool_address": "0xEFc6516323FbD28e80B85A497B65A86243a54B3E",
+      "token1_address": "0x6440f144b7e50D6a8439336510312d2F54beB01D",
+      "token2_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "pair_name": "BOLD/USDC"
+    },
+    {
+      "pool_address": "0x7ED17e037B7d88A8270c89B3aFA9C38e5218F12b",
+      "token1_address": "0x6440f144b7e50D6a8439336510312d2F54beB01D",
+      "token2_address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "pair_name": "BOLD/LUSD"
+    },
+    {
+      "pool_address": "0x8E001d4BAC0EaE1eea348dFC22f9B8bDA67dd211",
+      "token1_address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+      "token2_address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "pair_name": "RLP/USDC"
+    },
+    {
+      "pool_address": "0xC907ba505C2E1cbc4658c395d4a2c7E6d2c32656",
+      "token1_address": "0x4956b52aE2fF65D74CA2d61207523288e4528f96",
+      "token2_address": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+      "pair_name": "RLP/USR"
+    }
+  ]
+}
