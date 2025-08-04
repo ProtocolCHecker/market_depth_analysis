@@ -247,6 +247,23 @@
       },
       "feeTier": 0.3,
       "description": "AAVE/ETH pool for Aave protocol token trading."
+    },
+    {
+      "poolAddress": "0xa803c87d21CFc0a0E262Dd9d561AA88146BeA669",
+      "token0": {
+        "symbol": "USND",
+        "address": "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
+        "decimals": 18,
+        "coingeckoId": "us-nerite-dollar"
+      },
+      "token1": {
+        "symbol": "USDC",
+        "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "decimals": 6,
+        "coingeckoId": "usd-coin"
+      },
+      "feeTier": 0.3,
+      "description": "AAVE/ETH pool for Aave protocol token trading."
     }
   ]
 }
